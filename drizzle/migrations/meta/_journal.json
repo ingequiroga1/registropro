@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791225386800,
+      "tag": "0000_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791470860496,
+      "tag": "0001_fix_registrar_venta_ambiguous_total",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791473209813,
+      "tag": "0002_precio_docena_sin_dividir",
+      "breakpoints": true
+    }
+  ]
+}
